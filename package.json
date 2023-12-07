@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
-    "test": "mocha"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +23,5 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9",
-    "mocha": "^10.0.0",
   }
 }
